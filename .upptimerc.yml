@@ -21,8 +21,8 @@ sites:
     method: POST
 
 status-website:
-  cname: rationai-vis.ics.muni.cz
-  # baseUrl: /demo-uptime
+  #cname: rationai-vis.ics.muni.cz we do not have this running on custom domain for now
+  baseUrl: /demo-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime for Showcase
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
@@ -35,6 +35,4 @@ status-website:
 
 assignees:
   - Aiosa
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  
