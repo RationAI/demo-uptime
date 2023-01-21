@@ -1,31 +1,40 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: RationAI # Your GitHub organization or username, where this repository lives
+repo: demo-uptime # The name of this repository
+user-agent: rationai
 
+# Demo features only Viewer and Image Server
+# Image Server tests initialization of two used image queries, and image array data access
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Showcase Main Page
+    url: https://rationai-vis.ics.muni.cz/visualization-demo/showcase.php
+  - name: Showcase Viewer
+    url: https://rationai-vis.ics.muni.cz/visualization-demo/client/redirect.php#%7B%22params%22%3A%7B%22bypassCookies%22%3Afalse%7D%2C%22meta%22%3A%7B%7D%2C%22data%22%3A%5B%22CancerDetection%2Ftissue.tif%22%2C%22CancerDetection%2Fannotation.tif%22%2C%22CancerDetection%2Fprobability.tif%22%2C%22CancerDetection%2Fexplainability.tif%22%5D%2C%22background%22%3A%5B%7B%22dataReference%22%3A0%7D%5D%2C%22visualizations%22%3A%5B%7B%22name%22%3A%22Automated%20cancer%20detection%22%2C%22shaders%22%3A%7B%22probability%22%3A%7B%22name%22%3A%22Probability%20Layer%22%2C%22type%22%3A%22heatmap%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B2%5D%2C%22params%22%3A%7B%22color%22%3A%22%23fff705%22%7D%2C%22index%22%3A0%2C%22cache%22%3A%7B%22heatmap%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%2C%22explainability%22%3A%7B%22name%22%3A%22Explainability%20Layer%22%2C%22type%22%3A%22bipolar-heatmap%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B3%5D%2C%22params%22%3A%7B%7D%2C%22index%22%3A1%2C%22cache%22%3A%7B%22bipolar-heatmap%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%2C%22annotation%22%3A%7B%22name%22%3A%22Annotation%20Layer%22%2C%22type%22%3A%22edge%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B1%5D%2C%22params%22%3A%7B%22color%22%3A%22%2300eeff%22%2C%22ctrlThreshold%22%3A0%7D%2C%22index%22%3A2%2C%22cache%22%3A%7B%22edge%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%7D%2C%22params%22%3A%7B%7D%2C%22order%22%3A%5B%22probability%22%2C%22explainability%22%2C%22annotation%22%5D%7D%5D%2C%22shaderSources%22%3A%5B%5D%2C%22plugins%22%3A%7B%22gui_annotations%22%3A%7B%7D%2C%22recorder%22%3A%7B%7D%7D%2C%22dataPage%22%3A%7B%7D%7D
+    __dangerous__body_down_if_text_missing: "<!--Visualization setup-->"
+  - name: Showcase Image Server DZI
+    url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?Deepzoom=CancerDetection/tissue.tif.dzi
+  - name: Showcase Image Server DZI Array
+    url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?DeepZoomExt=CancerDetection/annotation.tif,CancerDetection/probability.tif,CancerDetection/explainability.tif.dzi
+    method: POST
+  - name: Showcase Image Server DZI Array Data
+    url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?DeepZoomExt=CancerDetection/annotation.tif,CancerDetection/probability.tif,CancerDetection/explainability.tif_files/0/0_0.jpg  
+    method: POST
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: rationai-vis.ics.muni.cz
+  # baseUrl: /demo-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Uptime for Showcase
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: "Uptime monitoring for demo page: showcase visualization."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+assignees:
+  - Aiosa
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
