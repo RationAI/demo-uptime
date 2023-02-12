@@ -1,7 +1,7 @@
 url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?DeepZoomExt=CancerDetection/annotation.tif,CancerDetection/probability.tif,CancerDetection/explainability.tif.dzi
 status: up
 code: 200
-responseTime: 183
-lastUpdated: 2023-02-11T23:11:40.231Z
+responseTime: 201
+lastUpdated: 2023-02-12T23:11:38.627Z
 startTime: Sat Jan 21 2023 12:40:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
