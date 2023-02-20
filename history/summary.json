@@ -10,11 +10,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 1164,
-    "timeDay": 1463,
-    "timeWeek": 1148,
-    "timeMonth": 1164,
-    "timeYear": 1164,
+    "time": 1161,
+    "timeDay": 1080,
+    "timeWeek": 1162,
+    "timeMonth": 1161,
+    "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-02-13": 9,
       "2023-02-07": 33
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 145,
-    "timeDay": 171,
-    "timeWeek": 147,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 146,
+    "timeDay": 187,
+    "timeWeek": 155,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
       "2023-02-07": 20,
       "2023-01-21": 6
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 214,
-    "timeDay": 264,
+    "time": 213,
+    "timeDay": 194,
     "timeWeek": 199,
-    "timeMonth": 214,
-    "timeYear": 214,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2023-02-07": 19
     }
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 182,
-    "timeDay": 236,
-    "timeWeek": 189,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 185,
+    "timeDay": 277,
+    "timeWeek": 200,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {
       "2023-02-07": 19
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 227,
-    "timeDay": 314,
-    "timeWeek": 265,
-    "timeMonth": 227,
-    "timeYear": 227,
+    "time": 231,
+    "timeDay": 360,
+    "timeWeek": 269,
+    "timeMonth": 231,
+    "timeYear": 231,
     "dailyMinutesDown": {
       "2023-02-07": 8
     }
