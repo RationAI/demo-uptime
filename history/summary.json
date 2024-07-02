@@ -4,7 +4,7 @@
     "url": "https://rationai-vis.ics.muni.cz/visualization-demo/showcase.php",
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "95.55%",
     "uptimeWeek": "99.19%",
@@ -16,6 +16,7 @@
     "timeMonth": 1247,
     "timeYear": 1172,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-07-01": 64,
       "2024-06-30": 17,
       "2024-05-02": 147,
