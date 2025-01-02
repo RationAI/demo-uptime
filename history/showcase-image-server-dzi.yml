@@ -1,7 +1,7 @@
 url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?Deepzoom=CancerDetection/tissue.tif.dzi
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-01T23:14:58.100Z
+status: up
+code: 200
+responseTime: 5064
+lastUpdated: 2025-01-02T08:28:58.933Z
 startTime: 2023-01-21T12:40:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
