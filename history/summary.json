@@ -8,13 +8,13 @@
     "uptime": "96.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.60%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "91.42%",
     "time": 1185,
-    "timeDay": 1121,
-    "timeWeek": 1225,
-    "timeMonth": 1230,
-    "timeYear": 1198,
+    "timeDay": 1092,
+    "timeWeek": 1167,
+    "timeMonth": 1220,
+    "timeYear": 1199,
     "dailyMinutesDown": {
       "2025-04-10": 16,
       "2025-04-04": 38,
@@ -69,8 +69,7 @@
       "2024-08-01": 29,
       "2024-07-02": 18,
       "2024-07-01": 64,
-      "2024-06-30": 17,
-      "2024-05-02": 147
+      "2024-06-30": 17
     }
   },
   {
@@ -82,13 +81,13 @@
     "uptime": "96.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.70%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "91.46%",
     "time": 168,
-    "timeDay": 165,
-    "timeWeek": 144,
-    "timeMonth": 139,
-    "timeYear": 183,
+    "timeDay": 131,
+    "timeWeek": 139,
+    "timeMonth": 137,
+    "timeYear": 184,
     "dailyMinutesDown": {
       "2025-04-04": 37,
       "2025-04-01": 531,
@@ -135,8 +134,7 @@
       "2024-10-09": 478,
       "2024-09-16": 176,
       "2024-09-11": 16,
-      "2024-07-01": 45,
-      "2024-05-02": 146
+      "2024-07-01": 45
     }
   },
   {
@@ -148,12 +146,12 @@
     "uptime": "96.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.71%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "91.49%",
-    "time": 316,
-    "timeDay": 195,
-    "timeWeek": 173,
-    "timeMonth": 170,
+    "time": 315,
+    "timeDay": 162,
+    "timeWeek": 169,
+    "timeMonth": 169,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2025-04-04": 36,
@@ -196,8 +194,7 @@
       "2024-11-20": 88,
       "2024-10-09": 477,
       "2024-09-16": 175,
-      "2024-07-01": 43,
-      "2024-05-02": 146
+      "2024-07-01": 43
     }
   },
   {
@@ -206,15 +203,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.71%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "91.49%",
     "time": 215,
-    "timeDay": 196,
-    "timeWeek": 173,
-    "timeMonth": 167,
+    "timeDay": 158,
+    "timeWeek": 168,
+    "timeMonth": 165,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2025-04-04": 35,
@@ -257,8 +254,7 @@
       "2024-11-20": 86,
       "2024-10-09": 477,
       "2024-09-16": 175,
-      "2024-07-01": 42,
-      "2024-05-02": 145
+      "2024-07-01": 42
     }
   },
   {
@@ -267,15 +263,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "up",
-    "uptime": "96.25%",
+    "uptime": "96.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.72%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "91.49%",
     "time": 225,
-    "timeDay": 295,
-    "timeWeek": 235,
-    "timeMonth": 225,
+    "timeDay": 197,
+    "timeWeek": 230,
+    "timeMonth": 223,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-04-04": 34,
@@ -318,8 +314,7 @@
       "2024-11-20": 85,
       "2024-10-09": 476,
       "2024-09-16": 174,
-      "2024-07-01": 40,
-      "2024-05-02": 145
+      "2024-07-01": 40
     }
   }
 ]
