@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "92.60%",
+    "uptime": "92.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "82.01%",
-    "time": 1185,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "81.74%",
+    "time": 1186,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1210,
+    "timeYear": 1202,
     "dailyMinutesDown": {
-      "2025-06-30": 116,
+      "2025-07-01": 121,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -104,8 +105,7 @@
       "2024-09-14": 18,
       "2024-09-11": 17,
       "2024-08-01": 29,
-      "2024-07-02": 18,
-      "2024-07-01": 64
+      "2024-07-02": 18
     }
   },
   {
@@ -114,18 +114,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "92.62%",
+    "uptime": "92.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "82.06%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "81.78%",
     "time": 170,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 184,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-06-30": 116,
+      "2025-07-01": 121,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -206,8 +207,7 @@
       "2024-10-22": 18,
       "2024-10-09": 478,
       "2024-09-16": 176,
-      "2024-09-11": 16,
-      "2024-07-01": 45
+      "2024-09-11": 16
     }
   },
   {
@@ -216,18 +216,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "92.64%",
+    "uptime": "92.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "82.08%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "81.80%",
     "time": 312,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 344,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2025-06-30": 116,
+      "2025-07-01": 121,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -303,8 +304,7 @@
       "2024-11-25": 37,
       "2024-11-20": 88,
       "2024-10-09": 477,
-      "2024-09-16": 175,
-      "2024-07-01": 43
+      "2024-09-16": 175
     }
   },
   {
@@ -313,18 +313,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "92.64%",
+    "uptime": "92.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "82.08%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "81.81%",
     "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-06-30": 116,
+      "2025-07-01": 121,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -400,8 +401,7 @@
       "2024-11-25": 29,
       "2024-11-20": 86,
       "2024-10-09": 477,
-      "2024-09-16": 175,
-      "2024-07-01": 42
+      "2024-09-16": 175
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "92.64%",
+    "uptime": "92.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "82.09%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "81.81%",
     "time": 225,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-06-30": 116,
+      "2025-07-01": 121,
+      "2025-06-30": 1440,
       "2025-06-29": 1440,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
@@ -497,8 +498,7 @@
       "2024-11-25": 29,
       "2024-11-20": 85,
       "2024-10-09": 476,
-      "2024-09-16": 174,
-      "2024-07-01": 40
+      "2024-09-16": 174
     }
   }
 ]
