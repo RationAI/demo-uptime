@@ -1,7 +1,7 @@
 url: https://rationai-vis.ics.muni.cz/visualization-demo/client/redirect.php#%7B%22params%22%3A%7B%22bypassCookies%22%3Afalse%7D%2C%22meta%22%3A%7B%7D%2C%22data%22%3A%5B%22CancerDetection%2Ftissue.tif%22%2C%22CancerDetection%2Fannotation.tif%22%2C%22CancerDetection%2Fprobability.tif%22%2C%22CancerDetection%2Fexplainability.tif%22%5D%2C%22background%22%3A%5B%7B%22dataReference%22%3A0%7D%5D%2C%22visualizations%22%3A%5B%7B%22name%22%3A%22Automated%20cancer%20detection%22%2C%22shaders%22%3A%7B%22probability%22%3A%7B%22name%22%3A%22Probability%20Layer%22%2C%22type%22%3A%22heatmap%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B2%5D%2C%22params%22%3A%7B%22color%22%3A%22%23fff705%22%7D%2C%22index%22%3A0%2C%22cache%22%3A%7B%22heatmap%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%2C%22explainability%22%3A%7B%22name%22%3A%22Explainability%20Layer%22%2C%22type%22%3A%22bipolar-heatmap%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B3%5D%2C%22params%22%3A%7B%7D%2C%22index%22%3A1%2C%22cache%22%3A%7B%22bipolar-heatmap%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%2C%22annotation%22%3A%7B%22name%22%3A%22Annotation%20Layer%22%2C%22type%22%3A%22edge%22%2C%22visible%22%3A1%2C%22dataReferences%22%3A%5B1%5D%2C%22params%22%3A%7B%22color%22%3A%22%2300eeff%22%2C%22ctrlThreshold%22%3A0%7D%2C%22index%22%3A2%2C%22cache%22%3A%7B%22edge%22%3A%7B%7D%7D%2C%22rendering%22%3Atrue%7D%7D%2C%22params%22%3A%7B%7D%2C%22order%22%3A%5B%22probability%22%2C%22explainability%22%2C%22annotation%22%5D%7D%5D%2C%22shaderSources%22%3A%5B%5D%2C%22plugins%22%3A%7B%22gui_annotations%22%3A%7B%7D%2C%22recorder%22%3A%7B%7D%7D%2C%22dataPage%22%3A%7B%7D%7D
 status: down
 code: 404
-responseTime: 179
-lastUpdated: 2025-11-02T23:14:00.135Z
+responseTime: 186
+lastUpdated: 2025-11-03T23:15:21.839Z
 startTime: 2023-01-21T12:40:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
