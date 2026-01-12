@@ -1,7 +1,7 @@
 url: https://rationai-vis.ics.muni.cz/iipsrv-demo/iipsrv.fcgi?DeepZoomExt=CancerDetection/annotation.tif,CancerDetection/probability.tif,CancerDetection/explainability.tif.dzi
 status: down
 code: 404
-responseTime: 149
-lastUpdated: 2026-01-11T23:03:53.828Z
+responseTime: 181
+lastUpdated: 2026-01-12T23:03:33.642Z
 startTime: 2023-01-21T12:40:38.000Z
 generator: Upptime <https://github.com/upptime/upptime>
