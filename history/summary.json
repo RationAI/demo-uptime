@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "67.18%",
+    "uptime": "67.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1092,
-    "timeDay": 424,
-    "timeWeek": 511,
-    "timeMonth": 577,
-    "timeYear": 1050,
+    "time": 1091,
+    "timeDay": 407,
+    "timeWeek": 487,
+    "timeMonth": 561,
+    "timeYear": 1047,
     "dailyMinutesDown": {
-      "2026-06-02": 64,
+      "2026-06-03": 71,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -379,8 +380,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "67.20%",
+    "uptime": "67.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 174,
-    "timeDay": 414,
-    "timeWeek": 515,
-    "timeMonth": 463,
-    "timeYear": 190,
+    "time": 175,
+    "timeDay": 401,
+    "timeWeek": 490,
+    "timeMonth": 472,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2026-06-02": 64,
+      "2026-06-03": 71,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -763,8 +764,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "67.21%",
+    "uptime": "67.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 202,
-    "timeDay": 420,
-    "timeWeek": 515,
-    "timeMonth": 466,
-    "timeYear": 189,
+    "timeDay": 405,
+    "timeWeek": 491,
+    "timeMonth": 475,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2026-06-02": 64,
+      "2026-06-03": 71,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1147,8 +1148,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "67.21%",
+    "uptime": "67.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 421,
-    "timeWeek": 514,
-    "timeMonth": 464,
-    "timeYear": 188,
+    "time": 187,
+    "timeDay": 395,
+    "timeWeek": 487,
+    "timeMonth": 473,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2026-06-02": 65,
+      "2026-06-03": 71,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1531,8 +1532,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "67.21%",
+    "uptime": "67.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 200,
-    "timeDay": 415,
-    "timeWeek": 515,
-    "timeMonth": 470,
+    "time": 201,
+    "timeDay": 399,
+    "timeWeek": 489,
+    "timeMonth": 479,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2026-06-02": 65,
+      "2026-06-03": 71,
+      "2026-06-02": 1440,
       "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
@@ -1915,8 +1916,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 1440,
       "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440
+      "2025-06-04": 1440
     }
   }
 ]
