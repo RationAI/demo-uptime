@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "66.75%",
+    "uptime": "66.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1076,
-    "timeDay": 628,
-    "timeWeek": 469,
+    "time": 1073,
+    "timeDay": 406,
+    "timeWeek": 468,
     "timeMonth": 497,
-    "timeYear": 1031,
+    "timeYear": 1028,
     "dailyMinutesDown": {
-      "2026-06-10": 64,
+      "2026-06-11": 64,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -379,8 +380,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "66.76%",
+    "uptime": "66.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 182,
-    "timeDay": 624,
-    "timeWeek": 469,
+    "time": 183,
+    "timeDay": 408,
+    "timeWeek": 468,
     "timeMonth": 496,
-    "timeYear": 198,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-06-10": 64,
+      "2026-06-11": 64,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -763,8 +764,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "66.77%",
+    "uptime": "66.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 207,
-    "timeDay": 628,
-    "timeWeek": 473,
+    "time": 208,
+    "timeDay": 394,
+    "timeWeek": 470,
     "timeMonth": 498,
-    "timeYear": 198,
+    "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-06-10": 64,
+      "2026-06-11": 64,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1147,8 +1148,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "66.77%",
+    "uptime": "66.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 193,
-    "timeDay": 625,
-    "timeWeek": 475,
+    "timeDay": 400,
+    "timeWeek": 472,
     "timeMonth": 499,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-06-10": 64,
+      "2026-06-11": 64,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1531,8 +1532,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "66.77%",
+    "uptime": "66.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 205,
-    "timeDay": 629,
-    "timeWeek": 471,
+    "time": 206,
+    "timeDay": 398,
+    "timeWeek": 469,
     "timeMonth": 498,
-    "timeYear": 197,
+    "timeYear": 198,
     "dailyMinutesDown": {
-      "2026-06-10": 64,
+      "2026-06-11": 64,
+      "2026-06-10": 1440,
       "2026-06-09": 1440,
       "2026-06-08": 1440,
       "2026-06-07": 1440,
@@ -1915,8 +1916,7 @@
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
-      "2025-06-12": 1440,
-      "2025-06-11": 1440
+      "2025-06-12": 1440
     }
   }
 ]
