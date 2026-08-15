@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "63.41%",
+    "uptime": "63.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 960,
-    "timeDay": 416,
-    "timeWeek": 491,
-    "timeMonth": 513,
-    "timeYear": 925,
+    "time": 959,
+    "timeDay": 415,
+    "timeWeek": 493,
+    "timeMonth": 506,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2026-08-14": 29,
+      "2026-08-15": 16,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -379,8 +380,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "63.43%",
+    "uptime": "63.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 242,
-    "timeDay": 414,
+    "time": 243,
+    "timeDay": 412,
     "timeWeek": 491,
-    "timeMonth": 513,
-    "timeYear": 261,
+    "timeMonth": 506,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-08-14": 30,
+      "2026-08-15": 16,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -763,8 +764,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "63.43%",
+    "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 247,
-    "timeDay": 414,
-    "timeWeek": 489,
-    "timeMonth": 511,
+    "timeDay": 418,
+    "timeWeek": 490,
+    "timeMonth": 504,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2026-08-14": 30,
+      "2026-08-15": 16,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1147,8 +1148,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "63.44%",
+    "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 248,
-    "timeDay": 415,
+    "time": 249,
+    "timeDay": 413,
     "timeWeek": 489,
-    "timeMonth": 512,
+    "timeMonth": 505,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-08-14": 30,
+      "2026-08-15": 16,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1531,8 +1532,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "63.44%",
+    "uptime": "63.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 254,
-    "timeDay": 415,
+    "time": 255,
+    "timeDay": 414,
     "timeWeek": 489,
-    "timeMonth": 512,
+    "timeMonth": 505,
     "timeYear": 260,
     "dailyMinutesDown": {
-      "2026-08-14": 30,
+      "2026-08-15": 16,
+      "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
       "2026-08-11": 1440,
@@ -1915,8 +1916,7 @@
       "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
-      "2025-08-16": 1440,
-      "2025-08-15": 1440
+      "2025-08-16": 1440
     }
   }
 ]
