@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "63.32%",
+    "uptime": "63.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 956,
-    "timeDay": 456,
-    "timeWeek": 489,
-    "timeMonth": 505,
+    "time": 955,
+    "timeDay": 646,
+    "timeWeek": 514,
+    "timeMonth": 510,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2026-08-16": 17,
+      "2026-08-17": 16,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -379,8 +380,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "63.33%",
+    "uptime": "63.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 244,
-    "timeDay": 469,
-    "timeWeek": 491,
-    "timeMonth": 506,
-    "timeYear": 263,
+    "time": 246,
+    "timeDay": 652,
+    "timeWeek": 516,
+    "timeMonth": 511,
+    "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-08-16": 17,
+      "2026-08-17": 16,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -763,8 +764,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "63.34%",
+    "uptime": "63.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 248,
-    "timeDay": 454,
-    "timeWeek": 488,
-    "timeMonth": 504,
-    "timeYear": 262,
+    "time": 250,
+    "timeDay": 642,
+    "timeWeek": 513,
+    "timeMonth": 508,
+    "timeYear": 263,
     "dailyMinutesDown": {
-      "2026-08-16": 17,
+      "2026-08-17": 17,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1147,8 +1148,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "63.34%",
+    "uptime": "63.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 249,
-    "timeDay": 452,
-    "timeWeek": 487,
-    "timeMonth": 504,
-    "timeYear": 261,
+    "time": 251,
+    "timeDay": 641,
+    "timeWeek": 513,
+    "timeMonth": 509,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-08-16": 17,
+      "2026-08-17": 17,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1531,8 +1532,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "63.34%",
+    "uptime": "63.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 256,
-    "timeDay": 459,
-    "timeWeek": 488,
-    "timeMonth": 505,
-    "timeYear": 261,
+    "time": 257,
+    "timeDay": 639,
+    "timeWeek": 512,
+    "timeMonth": 509,
+    "timeYear": 262,
     "dailyMinutesDown": {
-      "2026-08-16": 17,
+      "2026-08-17": 17,
+      "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -1915,8 +1916,7 @@
       "2025-08-21": 1440,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
-      "2025-08-18": 1440,
-      "2025-08-17": 1440
+      "2025-08-18": 1440
     }
   }
 ]
