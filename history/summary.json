@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-main-page",
     "status": "down",
-    "uptime": "61.15%",
+    "uptime": "61.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 877,
-    "timeDay": 419,
-    "timeWeek": 488,
-    "timeMonth": 508,
-    "timeYear": 870,
+    "time": 876,
+    "timeDay": 578,
+    "timeWeek": 511,
+    "timeMonth": 506,
+    "timeYear": 869,
     "dailyMinutesDown": {
-      "2026-10-01": 49,
+      "2026-10-02": 42,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -379,8 +380,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-viewer",
     "status": "down",
-    "uptime": "61.17%",
+    "uptime": "61.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 291,
-    "timeDay": 421,
-    "timeWeek": 488,
-    "timeMonth": 512,
-    "timeYear": 295,
+    "time": 292,
+    "timeDay": 584,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 296,
     "dailyMinutesDown": {
-      "2026-10-01": 49,
+      "2026-10-02": 42,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -763,8 +764,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi",
     "status": "down",
-    "uptime": "61.18%",
+    "uptime": "61.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 291,
-    "timeDay": 417,
-    "timeWeek": 482,
-    "timeMonth": 509,
-    "timeYear": 294,
+    "time": 292,
+    "timeDay": 569,
+    "timeWeek": 503,
+    "timeMonth": 507,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2026-10-01": 49,
+      "2026-10-02": 42,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1147,8 +1148,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -1157,18 +1157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array",
     "status": "down",
-    "uptime": "61.18%",
+    "uptime": "61.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 290,
-    "timeDay": 414,
-    "timeWeek": 488,
-    "timeMonth": 512,
+    "time": 291,
+    "timeDay": 582,
+    "timeWeek": 511,
+    "timeMonth": 511,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2026-10-01": 49,
+      "2026-10-02": 42,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1531,8 +1532,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   },
   {
@@ -1541,18 +1541,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rationai-vis.ics.muni.cz.ico",
     "slug": "showcase-image-server-dzi-array-data",
     "status": "down",
-    "uptime": "61.18%",
+    "uptime": "61.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 292,
-    "timeDay": 417,
-    "timeWeek": 488,
-    "timeMonth": 512,
+    "time": 293,
+    "timeDay": 558,
+    "timeWeek": 509,
+    "timeMonth": 509,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2026-10-01": 49,
+      "2026-10-02": 42,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -1915,8 +1916,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   }
 ]
